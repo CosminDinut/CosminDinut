@@ -88,8 +88,7 @@ Here are some of the key projects that showcase my expertise. I recommend checki
 ### 📜 Publications
 
 -   Dinuț, I.-C., Constantinescu, R.-C., & Alexandrescu, B. (2024). *Methods and algorithms for analyzing network node measurements to predict load and correctly size nodes*. 2024 Advanced Topics on Measurement and Simulation (ATOMS).
--   Dinuț, I.-C., & Constantinescu, R.-C. (2024). *Traffic analysis and route optimization in IP/MPLS networks*. Romanian Journal of Information Science and Technology.
--   Dinuț, I.-C., et al. (2025). *Adaptive Power-Thermal Management for Embedded SoCs using Reinforcement Learning*. SIITME 2025.
+
 
 ---
 ### 📫 Let's Connect!
